@@ -1,7 +1,5 @@
 # eegvaluator project
 
-# EEG Noise Evals
-
 This project tests whether a model can tell real EEG-like signals from noise and whether its confidence changes as the signal gets more corrupted.
 
 ## What it does
